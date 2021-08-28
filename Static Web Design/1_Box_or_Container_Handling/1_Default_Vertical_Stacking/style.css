@@ -1,0 +1,21 @@
+.nsync {
+  color: red;
+  text-align: center;
+  position: relative;
+}
+.backstreet {
+  color: blue;
+  text-align: center;
+  position: relative;
+}
+.buttonstyle {
+  color: green;
+  text-align: center;
+  position: relative;
+}
+
+.boxleft {
+  background-color: red;
+  width: 600px;
+  height: 100%;
+}
