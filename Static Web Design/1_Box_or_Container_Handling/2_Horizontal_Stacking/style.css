@@ -16,12 +16,12 @@
 
 .boxleft {
   background-color: red;
-  display: inline-block;
+  display: inline-block; /*once parent is configure for whitespace nowrap, children are told to be in one line
   width: 600px;
   height: 100%;
 }
 
 .horizontalstack {
-  white-space: nowrap;
+  white-space: nowrap; /*whitespace occurs between 2 divs and by default browser behaviour is to break at a whitespace to newline if the div after whitespace exceeds browser length*/
   height: 100%;
 }
