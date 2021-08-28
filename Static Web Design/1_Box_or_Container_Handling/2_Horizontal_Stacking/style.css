@@ -16,7 +16,7 @@
 
 .boxleft {
   background-color: red;
-  display: inline-block; /*once parent is configure for whitespace nowrap, children are told to be in one line
+  display: inline-block; /*once parent is configure for whitespace nowrap, children are told to be in one line*/
   width: 600px;
   height: 100%;
 }
