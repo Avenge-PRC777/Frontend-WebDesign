@@ -108,3 +108,9 @@
   font-family: "Tahoma";
   -webkit-text-stroke: 0.5px black;
 }
+
+.imagesrc {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
