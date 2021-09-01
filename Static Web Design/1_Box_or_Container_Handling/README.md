@@ -12,6 +12,7 @@ Box Modelling Example:
 Text responsiveness- vw/vh (view-port) (https://stackoverflow.com/questions/16056591/font-scaling-based-on-width-of-container)
 
 Img responsiveness- object-fit: cover/contain
+
 Div background image responsiveness- background-size: cover
 
 
